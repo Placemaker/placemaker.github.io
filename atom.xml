@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-02T09:09:28.745Z</updated>
+  <updated>2016-09-02T17:05:50.692Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="http://yoursite.com/2016/09/02/%E6%9B%B4%E6%96%B0%E4%B8%8B%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%8D%8B%E4%B8%80%E4%B8%8B%E6%80%9D%E8%B7%AF/"/>
     <id>http://yoursite.com/2016/09/02/更新下博客，捋一下思路/</id>
     <published>2016-09-02T08:56:49.000Z</published>
-    <updated>2016-09-02T09:09:28.745Z</updated>
+    <updated>2016-09-02T17:05:50.692Z</updated>
     
-    <content type="html"><![CDATA[<p>还是挺好用的。</p>
+    <content type="html"><![CDATA[<p>还是挺好用的。<br>根本停不下来。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;还是挺好用的。&lt;/p&gt;
+      &lt;p&gt;还是挺好用的。&lt;br&gt;根本停不下来。&lt;/p&gt;
 
     
     </summary>
