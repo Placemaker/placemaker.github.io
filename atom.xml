@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-02T17:05:50.692Z</updated>
+  <updated>2016-09-03T03:06:19.485Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,18 +16,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>更新下博客，捋一下思路</title>
-    <link href="http://yoursite.com/2016/09/02/%E6%9B%B4%E6%96%B0%E4%B8%8B%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%8D%8B%E4%B8%80%E4%B8%8B%E6%80%9D%E8%B7%AF/"/>
-    <id>http://yoursite.com/2016/09/02/更新下博客，捋一下思路/</id>
-    <published>2016-09-02T08:56:49.000Z</published>
-    <updated>2016-09-02T17:05:50.692Z</updated>
+    <title>about</title>
+    <link href="http://yoursite.com/2016/09/03/about/"/>
+    <id>http://yoursite.com/2016/09/03/about/</id>
+    <published>2016-09-03T03:00:41.000Z</published>
+    <updated>2016-09-03T03:06:19.485Z</updated>
     
-    <content type="html"><![CDATA[<p>还是挺好用的。<br>根本停不下来。</p>
+    <content type="html"><![CDATA[<p>其实我是个艺术家</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;还是挺好用的。&lt;br&gt;根本停不下来。&lt;/p&gt;
+      &lt;p&gt;其实我是个艺术家&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>更新下博客，捋一下思路</title>
+    <link href="http://yoursite.com/2016/09/02/%E6%9B%B4%E6%96%B0%E4%B8%8B%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%8D%8B%E4%B8%80%E4%B8%8B%E6%80%9D%E8%B7%AF/"/>
+    <id>http://yoursite.com/2016/09/02/更新下博客，捋一下思路/</id>
+    <published>2016-09-02T08:56:49.000Z</published>
+    <updated>2016-09-02T17:07:15.536Z</updated>
+    
+    <content type="html"><![CDATA[<p>还是挺好用的。</p>
+<p>根本停不下来。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;还是挺好用的。&lt;/p&gt;
+&lt;p&gt;根本停不下来。&lt;/p&gt;
 
     
     </summary>
