@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PlacemakerTalk</title>
-  
+  <subtitle>thinking a little</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-03T03:06:19.485Z</updated>
+  <updated>2016-09-02T17:07:15.536Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,26 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>about</title>
-    <link href="http://yoursite.com/2016/09/03/about/"/>
-    <id>http://yoursite.com/2016/09/03/about/</id>
-    <published>2016-09-03T03:00:41.000Z</published>
-    <updated>2016-09-03T03:06:19.485Z</updated>
-    
-    <content type="html"><![CDATA[<p>其实我是个艺术家</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;其实我是个艺术家&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>更新下博客，捋一下思路</title>
