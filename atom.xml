@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-05T06:57:44.943Z</updated>
+  <updated>2016-09-05T09:12:58.942Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,16 +20,18 @@
     <link href="http://yoursite.com/2016/09/02/update-my-blog/"/>
     <id>http://yoursite.com/2016/09/02/update-my-blog/</id>
     <published>2016-09-02T08:56:49.000Z</published>
-    <updated>2016-09-05T06:57:44.943Z</updated>
+    <updated>2016-09-05T09:12:58.942Z</updated>
     
     <content type="html"><![CDATA[<p>还是挺好用的。</p>
 <p>根本停不下来。</p>
+<p><strong>Update</strong>:<br>2016-09-05 迁移简书到hexo。<br>2016-09-05 迁移wordpress到hexo。</p>
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;还是挺好用的。&lt;/p&gt;
 &lt;p&gt;根本停不下来。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;:&lt;br&gt;2016-09-05 迁移简书到hexo。&lt;br&gt;2016-09-05 迁移wordpress到hexo。&lt;/p&gt;
 
     
     </summary>
