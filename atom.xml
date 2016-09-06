@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-05T09:18:51.961Z</updated>
+  <updated>2016-09-06T15:59:10.451Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>深入，更进一步</title>
+    <link href="http://yoursite.com/2016/09/06/go-deep-into/"/>
+    <id>http://yoursite.com/2016/09/06/go-deep-into/</id>
+    <published>2016-09-06T15:58:14.000Z</published>
+    <updated>2016-09-06T15:59:10.451Z</updated>
+    
+    <content type="html"><![CDATA[<p>看曹大的文章《浅薄》，很有共鸣。</p>
+<p>不要总是停留在表明，<strong>更进一步</strong><br>多几个更进一步的问题！</p>
+<blockquote>
+<p>如何学的前端，学了多久，<strong>学到什么程度</strong>，遇到过什么问题，是如何尝试解决这些问题。<br>A 同学说“我知道React但没用它做过东西”，<br>B 同学说“我用AngularJS写过一些个人的小项目”，<br>C 同学说“我上个月使用弹性布局的思路来写我的博客，结果在Android系统4.1版本的Webkit浏览器下出现了一个显示bug，最后我是这样这样解决的”。<br>你们说 A、B、C 三个同学我们会选择哪个同学？</p>
+</blockquote>
+<p>我们一般说，知其然还要知其所以然。<br>我们又说，好读书，不求甚解。<br>古人，诚不欺我？</p>
+<p>一直很向往成都，一直没敢去。<br>只听有人说：毁掉一首歌最好的办法就是把它设成闹钟。毁掉一个心驰神往的地方，就是去那个城市生活工作。<br><img src="http://upload-images.jianshu.io/upload_images/2169617-3856292439d0f0b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;看曹大的文章《浅薄》，很有共鸣。&lt;/p&gt;
+&lt;p&gt;不要总是停留在表明，&lt;strong&gt;更进一步&lt;/strong&gt;&lt;br&gt;多几个更进一步的问题！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如何学的前端，学了多久，&lt;strong&gt;学到什么程度&lt;/strong&gt;，遇到过什么问题，是如
+    
+    </summary>
+    
+      <category term="随想" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>更新下博客，捋一下思路</title>
