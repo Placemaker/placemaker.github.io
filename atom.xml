@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-07T15:50:35.277Z</updated>
+  <updated>2016-09-09T15:58:18.252Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>tools</title>
+    <link href="http://yoursite.com/2016/09/09/tools/"/>
+    <id>http://yoursite.com/2016/09/09/tools/</id>
+    <published>2016-09-09T15:56:54.000Z</published>
+    <updated>2016-09-09T15:58:18.252Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享几个我一直在用的工具。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;分享几个我一直在用的工具。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>人性化的城市 More</title>
@@ -629,40 +651,6 @@
       &lt;p&gt;本文其实想表达两个意思，一是有花堪折直须折，莫待无花空折枝。二是想做什么事的话就去争取，创造条件去做。&lt;/p&gt;
 &lt;p&gt;说多了其实感觉都一样，意思都差不多。其实都是通用的。&lt;/p&gt;
 &lt;p&gt;关于第一点，参看这里《&lt;a href=&quot;http://hanhan.qq.com/han
-    
-    </summary>
-    
-      <category term="随想" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>想做什么就去做吧</title>
-    <link href="http://yoursite.com/2013/03/14/do-what-you-want-to-do/"/>
-    <id>http://yoursite.com/2013/03/14/do-what-you-want-to-do/</id>
-    <published>2013-03-14T15:36:33.000Z</published>
-    <updated>2016-09-05T05:34:27.078Z</updated>
-    
-    <content type="html"><![CDATA[<p>唉，大学生活就剩下一年了，很多曾经的构想都没有实现，以后肯定会非常遗憾的。</p>
-<p>22岁了，哈哈，这确实不让人淡定啊。在学校是一个年龄，在社会上又是一个年龄。</p>
-<p>大一大二的很多设想，都停留在了E盘。</p>
-<p>回想一下，当初，大一上学期是逛了一下福州，基本上每星期天或没课的话，就去外面逛逛，高三时在新华书店看了本书《<a href="http://book.douban.com/subject/3522687/" target="_blank" rel="external">创业环境与高新产业发展</a>》，接触到文化创意产业这个概念，当时很激动，觉得以后就往这方面发展了。当时填报专业时，对数字媒体艺术，旅游管理，都挺感冒，但是后来选择会展，是命吧。扯远了。当时就把福州的文化创意产业园逛了一下，还有公园，书店，还专门去看了海峡国际会展中心。</p>
-<p>大一下学期是上网，把自己感兴趣的几个事物，找了一下相关资料，建个文件夹，就放那儿了，但我时刻惦记着它。</p>
-<p>大二上学期基本上是大一下学期的延续，值得一提的是看了很多电影。基本上把经典的电影都补了一下。</p>
-<p>大二下是看《<a href="http://movie.douban.com/subject/1453238/" target="_blank" rel="external">海贼王</a>》，看了二三百集，大二的暑假补完了，哈哈。</p>
-<p>大三上前几个月就是刷微博了，关注的人也不多，几十个。另外就是把很多别的地方看到的东西分享到微博上。后几个月开始关注几个博客，估计是从微博上了解到的吧。然后就像是找到了组织似的，很激动。</p>
-<p>然后过了年，就是现在了。</p>
-<p>想做几件事，福州大学城的活动信息平台；闽江学院TEDx，即TEDxMJU；闽江学院三维地图；旗山茶馆，做成公共空间，青年空间样的；再就是开博客了，表达，分享，共鸣。等等了。</p>
-<p>不是所有的开始都有结果，但尽量做成做好了。不想当老师的厨子不是好医生。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;唉，大学生活就剩下一年了，很多曾经的构想都没有实现，以后肯定会非常遗憾的。&lt;/p&gt;
-&lt;p&gt;22岁了，哈哈，这确实不让人淡定啊。在学校是一个年龄，在社会上又是一个年龄。&lt;/p&gt;
-&lt;p&gt;大一大二的很多设想，都停留在了E盘。&lt;/p&gt;
-&lt;p&gt;回想一下，当初，大一上学期是逛了一下福州
     
     </summary>
     
