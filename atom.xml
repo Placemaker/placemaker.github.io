@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-15T09:30:20.615Z</updated>
+  <updated>2016-09-22T09:47:55.809Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于微信小程序</title>
+    <link href="http://yoursite.com/2016/09/22/WeChat-small-program/"/>
+    <id>http://yoursite.com/2016/09/22/WeChat-small-program/</id>
+    <published>2016-09-22T09:37:01.000Z</published>
+    <updated>2016-09-22T09:47:55.809Z</updated>
+    
+    <content type="html"><![CDATA[<p>收集一些信息，不管更新，做准备吧。</p>
+<p>1.建议有心的朋友可以现在就开始收集各类小众，低频次，但是刚需的小应用需求，甚至可以自己就开始设计开发，等到微信应用号一推出，肯定能够占到先机，赚到自己的第一桶金。</p>
+<p>2.如果了解过微信 JS SDK 的伙伴一定觉得：卧槽，微信团队真够替前端考虑的，又特么是这套差不多的东西。</p>
+<p>有前端 HC 的赶紧招人吧，预计下半年能看入眼的前端会更难招了。</p>
+<p>目前这个开发套路也没啥好多聊的(废话，靠YY劳资也编不下去了呀)，我想和感兴趣的前端小伙伴们说：先把技术储备准备起来吧，以下内容请自行搜索：</p>
+<ul>
+<li>微信JS SDK</li>
+<li>WeUI</li>
+<li>Vux</li>
+</ul>
+<p>技术就先扯到这。</p>
+<p>3.在阅读完产品文档并做完产品线框图后，我越来越相信微信小程序，未来将掀起一波潮流。小程序的体验和原生 app 几乎没有差异。</p>
+<p>然而，我们公司的开发能力并不足够，我们想利用十一长假，做一次封闭开发，需要外部力量的支持，如果你想利用十一长假赚一点零用钱且比绝大多数人更早地参与微信应用号（小程序）开发，这是一次绝佳机会。</p>
+<p>兼职时间： 10.1~10.7<br>报酬：不同岗位日薪 500~1000 元。<br>需要的人员：</p>
+<ol>
+<li>Python 开发，最好熟悉 Django ，必须有写过 API 的经验</li>
+<li>前端工程师，必须熟悉 Javascript 和有过微信服务号开发经验，CSS 和 HTML 也是必须熟练的，最好有 react 开发经验。</li>
+<li>UI 设计师，喜欢扁平化设计，且有移动网页设计经验的设计师</li>
+</ol>
+<p>兼职地点：北京朝阳区常营。</p>
+<p>有兴趣的同学，请跟我联系： jason[AT]kenengba.com</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;收集一些信息，不管更新，做准备吧。&lt;/p&gt;
+&lt;p&gt;1.建议有心的朋友可以现在就开始收集各类小众，低频次，但是刚需的小应用需求，甚至可以自己就开始设计开发，等到微信应用号一推出，肯定能够占到先机，赚到自己的第一桶金。&lt;/p&gt;
+&lt;p&gt;2.如果了解过微信 JS SDK 的伙伴一定
+    
+    </summary>
+    
+      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>学习的道和术</title>
@@ -642,40 +685,6 @@
       &lt;p&gt;原来安装的PS CS5，很大，没怎么用；&lt;/p&gt;
 &lt;p&gt;后来安装的PS CS2，卸了，没怎么用；&lt;/p&gt;
 &lt;p&gt;今天安装的PS 7，&lt;a href=&quot;http://xiazai.zol.com.cn/detail/3/25671.shtml&quot; target=&quot;_blank&quot;
-    
-    </summary>
-    
-      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>手机连电脑wifi</title>
-    <link href="http://yoursite.com/2013/04/07/phone-pc-wifi/"/>
-    <id>http://yoursite.com/2013/04/07/phone-pc-wifi/</id>
-    <published>2013-04-07T14:32:17.000Z</published>
-    <updated>2016-09-05T05:34:27.078Z</updated>
-    
-    <content type="html"><![CDATA[<p>软件Connectify</p>
-<p><a href="http://www.connectify.me/download/" target="_blank" rel="external">官网下载</a></p>
-<p><a href="http://blog.csdn.net/qzmrock/article/details/8194509" target="_blank" rel="external">注册码</a></p>
-<p>邮箱：jvenpin@qq.com</p>
-<p>序列号：BCJXNF-R85EK7-E9L7PC-EQHFQ1-MG7Q1C-DAMTBK-LXLDFN-4JKXUS-FV2TZ7-UJS288-MXLG5G-APQ</p>
-<p>问：connectify按start hotspot后显示could not set IP address on interface怎么办？</p>
-<p>答：重启电脑</p>
-<p>软件截图</p>
-<div>
-
-<p><span style="font-size: medium;"><img src="http://i.imgur.com/fkPkgcc.png" alt=""></span></p>
-<p></p></div><br>&nbsp;<p></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;软件Connectify&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.connectify.me/download/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;官网下载&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://blog.csdn
     
     </summary>
     
