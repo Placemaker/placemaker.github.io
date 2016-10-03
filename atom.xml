@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-29T12:05:20.894Z</updated>
+  <updated>2016-10-03T06:52:02.545Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>another main line</title>
+    <link href="http://yoursite.com/2016/10/03/another-main-line/"/>
+    <id>http://yoursite.com/2016/10/03/another-main-line/</id>
+    <published>2016-10-03T06:49:44.000Z</published>
+    <updated>2016-10-03T06:52:02.545Z</updated>
+    
+    <content type="html"><![CDATA[<p>一篇有洞见的文章。《泡沫与繁荣，如何看待这一轮的互联网创业？ 》<br>宏观到微观。社会发展的主线，人口流动的主线。<br>不可思议，竟然是两年前的文章。</p>
+<p>一直在关注，社会学，经济学，宏观看趋势，微观指导实践。<br>以后有更多文章，思考，暂时作为信息源。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一篇有洞见的文章。《泡沫与繁荣，如何看待这一轮的互联网创业？ 》&lt;br&gt;宏观到微观。社会发展的主线，人口流动的主线。&lt;br&gt;不可思议，竟然是两年前的文章。&lt;/p&gt;
+&lt;p&gt;一直在关注，社会学，经济学，宏观看趋势，微观指导实践。&lt;br&gt;以后有更多文章，思考，暂时作为信息源。&lt;/
+    
+    </summary>
+    
+      <category term="随想" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>关于微信小程序，我看到的未来</title>
@@ -683,36 +706,6 @@
     </summary>
     
       <category term="MICE" scheme="http://yoursite.com/categories/MICE/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>用PS来找茬</title>
-    <link href="http://yoursite.com/2013/04/08/finding-fault-with-ps/"/>
-    <id>http://yoursite.com/2013/04/08/finding-fault-with-ps/</id>
-    <published>2013-04-07T17:08:38.000Z</published>
-    <updated>2016-09-05T05:34:27.078Z</updated>
-    
-    <content type="html"><![CDATA[<p>原来安装的PS CS5，很大，没怎么用；</p>
-<p>后来安装的PS CS2，卸了，没怎么用；</p>
-<p>今天安装的PS 7，<a href="http://xiazai.zol.com.cn/detail/3/25671.shtml" target="_blank" rel="external">photoshop简装版</a>，才14MB，解压也才32MB。太好用了！</p>
-<p>用PS来找茬，教程在<a href="http://tieba.baidu.com/p/326874433" target="_blank" rel="external">这里</a></p>
-<p>1、选择左图 （注意精准）</p>
-<p>2、将选择的区域“CTRL+J”建立新图层,并将混合模式改为“差值”</p>
-<p>3、移动左图与右图重合</p>
-<p>4、不同之处立现</p>
-<div></div>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;原来安装的PS CS5，很大，没怎么用；&lt;/p&gt;
-&lt;p&gt;后来安装的PS CS2，卸了，没怎么用；&lt;/p&gt;
-&lt;p&gt;今天安装的PS 7，&lt;a href=&quot;http://xiazai.zol.com.cn/detail/3/25671.shtml&quot; target=&quot;_blank&quot;
-    
-    </summary>
-    
-      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
   </entry>
