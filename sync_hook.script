@@ -1,1 +1,1 @@
-cd $root$ && hexo g -d
+cd C:/Hexo/source hexo g -d
