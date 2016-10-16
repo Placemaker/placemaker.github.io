@@ -1,1 +1,1 @@
-cd C:/Hexo/source; hexo clean; hexo g -d
+cd C:/Hexo/source; C:\Users\TIGER\AppData\Roaming\npm\hexo.cmd g -d
