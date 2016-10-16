@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-15T16:23:13.276Z</updated>
+  <updated>2016-10-16T06:42:05.858Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,15 @@
     <link href="http://yoursite.com/2016/10/16/%E7%9C%9F%E5%A5%BD%EF%BC%8C%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%EF%BC%81/"/>
     <id>http://yoursite.com/2016/10/16/真好，热爱生活！/</id>
     <published>2016-10-15T16:23:13.000Z</published>
-    <updated>2016-10-15T16:23:13.276Z</updated>
+    <updated>2016-10-16T06:42:05.858Z</updated>
+    
+    <content type="html"><![CDATA[<p>PyCon活动，见识了陈海波大神。<br>知道了MarkEditor，原来还有这样的产品。<br>原来生活还可以这样，原来可以活得这么可爱。<br>真好！</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;PyCon活动，见识了陈海波大神。&lt;br&gt;知道了MarkEditor，原来还有这样的产品。&lt;br&gt;原来生活还可以这样，原来可以活得这么可爱。&lt;br&gt;真好！&lt;/p&gt;
+
     
     </summary>
     
