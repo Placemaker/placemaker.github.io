@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-16T11:30:36.869Z</updated>
+  <updated>2016-10-16T11:39:26.733Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/10/16/%E7%9C%9F%E5%A5%BD%EF%BC%8C%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%EF%BC%81/"/>
     <id>http://yoursite.com/2016/10/16/真好，热爱生活！/</id>
     <published>2016-10-15T16:23:13.000Z</published>
-    <updated>2016-10-16T11:30:36.869Z</updated>
+    <updated>2016-10-16T11:39:26.733Z</updated>
     
     <content type="html"><![CDATA[<p>PyCon活动，见识了陈海波大神。<br>知道了MarkEditor，原来还有这样的产品。<br>原来生活还可以这样，原来可以活得这么可爱。<br>真好！<br><img src="http://ww2.sinaimg.cn/large/69b97550gw1f8rykgu7t4j21b52bcb29.jpg" alt="69b97550gw1f8rykgu7t4j21b52bcb29.jpg"></p>
 ]]></content>
@@ -331,35 +331,6 @@
   </entry>
   
   <entry>
-    <title>我为什么学习编程</title>
-    <link href="http://yoursite.com/2016/08/19/why-should-i-learn-programming/"/>
-    <id>http://yoursite.com/2016/08/19/why-should-i-learn-programming/</id>
-    <published>2016-08-18T16:00:00.000Z</published>
-    <updated>2016-09-05T08:24:40.800Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://oc3yddhzn.bkt.clouddn.com/coding.jpg" alt="人人都是工程师"><br>在《<a href="http://www.jianshu.com/p/8d46ebaa62fc" target="_blank" rel="external">看待问题的三个境界</a>》一文中，我讲了方法论。<br>也讲了学习编程的三个层次。我觉得讲得不透彻，现在再说一遍。</p>
-<p>现在有种感觉，和人打交道才最有意思，可能也还是最赚钱的，比如销售。销售里面又说到工业品销售，金融销售最赚钱。做事的话，现在来看肯定是程序员最赚钱，以前是英语老师。</p>
-<p>从李笑来的角度讲，学习英语，英语老师赚钱糊口，时间管理，英语学习方法，这些让他真正财务自由。也学编程，到更多的是用，方便生活。更好的培养学习能力，思维能力。</p>
-<p>我现在学编程，除了兴趣，能力培养，重点是找工作赚钱多。我有兴趣的多了去了，当然完全对前端没兴趣也没有必要学了。能力培养是附属品。学好赚钱才是当下的王道。我现在其实是想达到第三个境界，知道做这件事到底是干啥类。</p>
-<p>以后怎么发展，经济基础决定上层建筑，温饱小康，想法也会多的。所以丝毫不担心所谓的程序员30岁，35岁之后的问题。我不做技术，我可以做得还多着呢。当下，做技术是最优解，就像老罗和李笑来当时去新东方。</p>
-<p>避免“ 想到一个方案就去实施了，太快进入细节问题而沉陷，以至于都没有看清楚问题的本质是什么”。</p>
-<p><strong>学编程就是为了赚钱，赚钱还有很多附加品，何乐不为。</strong></p>
-<p>其实我是个艺术家。</p>
-<p>后话：<br>思考到这个层度，这个话题可以终结了。注意力要开始转移了。<br>至少在以后的一段时间里，什么语言最好，什么编辑器最好，这些争论没有我的身影。前端，后端，java，iOS，安卓，python，学习什么，了然于心。web大家都看好，现在也很火，兴趣也有，那就这样了。进行到下一步，怎么学习，具体知识。学习过程本身也是一个项目，后话。以后是找工作，是再学习，等等。先到这里。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://oc3yddhzn.bkt.clouddn.com/coding.jpg&quot; alt=&quot;人人都是工程师&quot;&gt;&lt;br&gt;在《&lt;a href=&quot;http://www.jianshu.com/p/8d46ebaa62fc&quot; target=&quot;_blank
-    
-    </summary>
-    
-      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>信息检索方法论</title>
     <link href="http://yoursite.com/2016/08/19/about-searching/"/>
     <id>http://yoursite.com/2016/08/19/about-searching/</id>
@@ -394,11 +365,40 @@
   </entry>
   
   <entry>
+    <title>我为什么学习编程</title>
+    <link href="http://yoursite.com/2016/08/19/why-should-i-learn-programming/"/>
+    <id>http://yoursite.com/2016/08/19/why-should-i-learn-programming/</id>
+    <published>2016-08-18T16:00:00.000Z</published>
+    <updated>2016-09-05T08:24:40.800Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oc3yddhzn.bkt.clouddn.com/coding.jpg" alt="人人都是工程师"><br>在《<a href="http://www.jianshu.com/p/8d46ebaa62fc" target="_blank" rel="external">看待问题的三个境界</a>》一文中，我讲了方法论。<br>也讲了学习编程的三个层次。我觉得讲得不透彻，现在再说一遍。</p>
+<p>现在有种感觉，和人打交道才最有意思，可能也还是最赚钱的，比如销售。销售里面又说到工业品销售，金融销售最赚钱。做事的话，现在来看肯定是程序员最赚钱，以前是英语老师。</p>
+<p>从李笑来的角度讲，学习英语，英语老师赚钱糊口，时间管理，英语学习方法，这些让他真正财务自由。也学编程，到更多的是用，方便生活。更好的培养学习能力，思维能力。</p>
+<p>我现在学编程，除了兴趣，能力培养，重点是找工作赚钱多。我有兴趣的多了去了，当然完全对前端没兴趣也没有必要学了。能力培养是附属品。学好赚钱才是当下的王道。我现在其实是想达到第三个境界，知道做这件事到底是干啥类。</p>
+<p>以后怎么发展，经济基础决定上层建筑，温饱小康，想法也会多的。所以丝毫不担心所谓的程序员30岁，35岁之后的问题。我不做技术，我可以做得还多着呢。当下，做技术是最优解，就像老罗和李笑来当时去新东方。</p>
+<p>避免“ 想到一个方案就去实施了，太快进入细节问题而沉陷，以至于都没有看清楚问题的本质是什么”。</p>
+<p><strong>学编程就是为了赚钱，赚钱还有很多附加品，何乐不为。</strong></p>
+<p>其实我是个艺术家。</p>
+<p>后话：<br>思考到这个层度，这个话题可以终结了。注意力要开始转移了。<br>至少在以后的一段时间里，什么语言最好，什么编辑器最好，这些争论没有我的身影。前端，后端，java，iOS，安卓，python，学习什么，了然于心。web大家都看好，现在也很火，兴趣也有，那就这样了。进行到下一步，怎么学习，具体知识。学习过程本身也是一个项目，后话。以后是找工作，是再学习，等等。先到这里。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oc3yddhzn.bkt.clouddn.com/coding.jpg&quot; alt=&quot;人人都是工程师&quot;&gt;&lt;br&gt;在《&lt;a href=&quot;http://www.jianshu.com/p/8d46ebaa62fc&quot; target=&quot;_blank
+    
+    </summary>
+    
+      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>看待问题的三个境界</title>
     <link href="http://yoursite.com/2016/08/18/The-three-levels-of-thinking/"/>
     <id>http://yoursite.com/2016/08/18/The-three-levels-of-thinking/</id>
     <published>2016-08-17T16:00:00.000Z</published>
-    <updated>2016-09-05T08:15:41.311Z</updated>
+    <updated>2016-10-16T11:48:26.738Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>王国维在《人间词话》说：“古今之成大事业、大学问者，必经过三种之境界：‘昨夜西风凋碧树。独上高楼，望尽天涯路’。此第一境也。‘衣带渐宽终不悔，为伊消得人憔悴。’此第二境也。‘众里寻他千百度，蓦然回首，那人却在，灯火阑珊处’。此第三境也。”</p>
