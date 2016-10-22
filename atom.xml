@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-21T14:48:19.201Z</updated>
+  <updated>2016-10-22T15:40:22.403Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>权重</title>
+    <link href="http://yoursite.com/2016/10/22/weight/"/>
+    <id>http://yoursite.com/2016/10/22/weight/</id>
+    <published>2016-10-22T15:39:29.000Z</published>
+    <updated>2016-10-22T15:40:22.403Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="随想" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>杭州互联网公司地图</title>
@@ -258,11 +280,11 @@
     <link href="http://yoursite.com/2016/09/02/update-my-blog/"/>
     <id>http://yoursite.com/2016/09/02/update-my-blog/</id>
     <published>2016-09-02T08:56:49.000Z</published>
-    <updated>2016-10-16T13:14:36.729Z</updated>
+    <updated>2016-10-21T14:49:33.632Z</updated>
     
     <content type="html"><![CDATA[<p>还是挺好用的。</p>
 <p>根本停不下来。</p>
-<p><strong>Update</strong>:<br>2016-09-05 迁移简书到hexo。<br>2016-09-05 迁移wordpress到hexo。<br>2016-09-02~2016-09-03 设置hexo博客。<br>2016-10-16 cd C:/Hexo/source; hexo clean; hexo g -d</p>
+<p><strong>Update</strong>:<br>2016-09-05 迁移简书到hexo。<br>2016-09-05 迁移wordpress到hexo。<br>2016-09-02~2016-09-03 设置hexo博客。<br>2016-10-16 cd C:/Hexo/source; hexo clean; hexo g -d<br>2016-10-21 cd c:/hexo;hexo g -d</p>
 ]]></content>
     
     <summary type="html">
@@ -717,28 +739,6 @@
     </summary>
     
       <category term="随想" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>狗</title>
-    <link href="http://yoursite.com/2013/04/25/dog/"/>
-    <id>http://yoursite.com/2013/04/25/dog/</id>
-    <published>2013-04-25T14:14:26.000Z</published>
-    <updated>2016-09-05T05:34:27.265Z</updated>
-    
-    <content type="html"><![CDATA[<p>想你</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;想你&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
