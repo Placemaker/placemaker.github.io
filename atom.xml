@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-22T15:40:22.403Z</updated>
+  <updated>2016-10-23T12:37:56.493Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,15 +20,14 @@
     <link href="http://yoursite.com/2016/10/22/weight/"/>
     <id>http://yoursite.com/2016/10/22/weight/</id>
     <published>2016-10-22T15:39:29.000Z</published>
-    <updated>2016-10-22T15:40:22.403Z</updated>
+    <updated>2016-10-23T12:37:56.493Z</updated>
     
-    <content type="html"><![CDATA[<p>今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。</p>
+    <content type="html"><![CDATA[<p>今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。<br>做个测试。再测试下。再次。<br>今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。<br>做个测试。再测试下。再次。<br>今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。<br>做个测试。再测试下。再次。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。&lt;/p&gt;
-
+      &lt;p&gt;今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。&lt;br&gt;做个测试。再测试下。再次。&lt;br&gt;今天对“权重”有了更多的认识，和穷忙有关，和信息过载有关，和注意力有关。先挖个坑。&lt;br&gt;做个测试。再测试下。再次。&lt;br&gt;今天对“权重”有了更多的认
     
     </summary>
     
