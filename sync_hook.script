@@ -1,1 +1,1 @@
-cd C:/hexo & hexo clean & hexo g & hexo d
+cd $root$ & hexo clean & hexo g
